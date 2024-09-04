@@ -1,6 +1,7 @@
 import { Container, Slogan, Title } from "./styles";
 import backGroundImage from "../../assets/background.png";
 import { Button } from "../../components/Button";
+
 export function SignIn() {
   return (
     <Container source={backGroundImage}>
